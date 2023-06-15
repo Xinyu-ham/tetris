@@ -1,7 +1,7 @@
 # Tetris Sovler
 Training an AI to play Tetris using genetic algorithm
 
-<video src='demo_vid.mp4' text-align='center' width='25%' height='25%' controls preload></video>
+https://github.com/Xinyu-ham/tetris/assets/22111215/ff5a22cc-5ccb-4840-bbc7-af030b8bc2ec
 
 ## Introduction
 
