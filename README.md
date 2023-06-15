@@ -1,8 +1,6 @@
 # Tetris Sovler
 Training an AI to play Tetris using genetic algorithm
 
-# show video and center it
-
 <video src='demo_vid.mp4' text-align='center' width='25%' height='25%' controls preload></video>
 
 ## Introduction
